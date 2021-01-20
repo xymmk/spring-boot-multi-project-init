@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="896f6452-696a-413e-a046-3cd592ce0644" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nJzAxj8cbPJxfChxoYUhMC2c6H" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi-project-example" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multi-project-example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.openid-api-server [:multi-project-example:bootRun]">
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":openid-connect-server:bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="openid-api-server [:multi-project-example:bootRun]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":multi-project-example:bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="openid-api-server [:openid-connect-server:bootRun] (1)" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":openid-connect-server:bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.openid-api-server [:multi-project-example:bootRun]" />
+      <item itemvalue="Gradle.openid-api-server [:openid-connect-server:bootRun] (1)" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../scala_workspace/a8px_webapp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="896f6452-696a-413e-a046-3cd592ce0644" name="Default Changelist" comment="" />
+      <created>1611122842328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611122842328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="207" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611130291189">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="207" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/47.23.1393.877@47.23.1393.877" timestamp="1611130291189" />
+    <state x="492" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611128322592">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="492" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/47.23.1393.877@47.23.1393.877" timestamp="1611128322592" />
+    <state width="1340" height="230" key="GridCell.Tab.0.bottom" timestamp="1611130314124">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1611130314124" />
+    <state width="1340" height="230" key="GridCell.Tab.0.center" timestamp="1611130314123">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1611130314123" />
+    <state width="1340" height="230" key="GridCell.Tab.0.left" timestamp="1611130314122">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1611130314122" />
+    <state width="1340" height="230" key="GridCell.Tab.0.right" timestamp="1611130314124">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1611130314124" />
+    <state x="255" y="100" key="SettingsEditor" timestamp="1611128830253">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="255" y="100" key="SettingsEditor/47.23.1393.877@47.23.1393.877" timestamp="1611128830253" />
+    <state x="401" y="218" width="683" height="486" key="find.popup" timestamp="1611123349787">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="401" y="218" width="683" height="486" key="find.popup/47.23.1393.877@47.23.1393.877" timestamp="1611123349787" />
+    <state x="120" y="75" key="new project wizard" timestamp="1611128392554">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="120" y="75" key="new project wizard/47.23.1393.877@47.23.1393.877" timestamp="1611128392554" />
+  </component>
+</project>

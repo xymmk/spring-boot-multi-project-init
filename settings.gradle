@@ -1,0 +1,5 @@
+rootProject.name = 'spring-boot-multi-project-init'
+
+include 'library'
+include 'application'
+include 'multi-project-example'
